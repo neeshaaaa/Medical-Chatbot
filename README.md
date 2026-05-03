@@ -15,7 +15,6 @@ pip install -r requirements.txt
 # Create a .env file in the root directory and add your Pinecone & openai credentials as follows:
 
 PINECONE_API_KEY = ".................................."
-OPENAI_API_KEY = "...................................."
 
 
 # run the following command to store embeddings to pinecone
@@ -34,5 +33,5 @@ Now,  open up localhost: localhost:8080
 Python
 LangChain
 Flask
-ollama
+llama 3
 Pinecone
